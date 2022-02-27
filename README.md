@@ -1,6 +1,11 @@
 # **AbogabotFredinVazquezLaunchX**
 Desarrollo del caso Abogabot, cubriendo los temas de toma de requerimientos; creación del Buyer persona; identificación del público objetivo y UX/UI design. 
 
+## **Material creado**
+<ul>
+    <li> <a href="https://www.figma.com/file/z4V5N3QUqSI3e9VvOQq3hj/Abogabot?node-id=0%3A1" target="blank">Abogabot UI - User Interface</a> </li>
+</ul>
+    
 ## El caso se trata de lo siguiente
 ### **Abogabot**
 
