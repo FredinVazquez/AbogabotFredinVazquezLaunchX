@@ -3,7 +3,9 @@ Desarrollo del caso Abogabot, cubriendo los temas de toma de requerimientos; cre
 
 ## **Material creado**
 <ul>
+    <li> <a href="https://miro.com/app/board/uXjVOKIZE6w=/?invite_link_id=25794568597" target="blank">Abogabot - Público objetivo</a> </li>
     <li> <a href="https://www.figma.com/file/z4V5N3QUqSI3e9VvOQq3hj/Abogabot?node-id=0%3A1" target="blank">Abogabot UI - User Interface</a> </li>
+    
 </ul>
     
 ## El caso se trata de lo siguiente
