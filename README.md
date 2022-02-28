@@ -32,5 +32,5 @@ Esto fue como parte de la actividad para la misión de FrontEnd de LaunchX.
 * Creación de texto random para UI layout: https://es.lipsum.com/feed/html
 * Icónos:                                  https://fontawesome.com/
 * Imagénes usadas:
-https://www.freepik.es/download-limit
-<a href='https://.pngtree.com/so/material'>material png de .pngtree.com/</a>
+    * https://www.freepik.es/download-limit
+    * <a href='https://.pngtree.com/so/material'>material png de .pngtree.com/</a>
