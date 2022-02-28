@@ -27,3 +27,10 @@ El inicio de este caso fue por medio de la toma de requerimientos. Lo siguiente 
 Finalmente, se finaliza esta sección por medio del diseño de un wireframe Ux, para después realizar la creación de un UI layout y mockup.
 
 Esto fue como parte de la actividad para la misión de FrontEnd de LaunchX.
+
+## _**Recursos web usados para la creación de este trabajo**_
+* Creación de texto random para UI layout: https://es.lipsum.com/feed/html
+* Icónos:                                  https://fontawesome.com/
+* Imagénes usadas:
+https://www.freepik.es/download-limit
+<a href='https://.pngtree.com/so/material'>material png de .pngtree.com/</a>
