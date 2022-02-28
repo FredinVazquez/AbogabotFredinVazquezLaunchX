@@ -34,3 +34,4 @@ Esto fue como parte de la actividad para la misión de FrontEnd de LaunchX.
 * Imagénes usadas:
     * https://www.freepik.es/download-limit
     * <a href='https://.pngtree.com/so/material'>material png de .pngtree.com/</a>
+* Material proporcionado por LaunchX.
