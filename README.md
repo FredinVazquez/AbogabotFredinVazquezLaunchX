@@ -3,6 +3,8 @@ Desarrollo del caso Abogabot, cubriendo los temas de toma de requerimientos; cre
 
 ## **Material creado**
 <ul>
+    <li>La toma de requerimientos fue realizada en Microsoft Word</li>
+    <li>La creación de Buyer persona fue realizada en Microsoft Word</li>
     <li> <a href="https://miro.com/app/board/uXjVOKIZE6w=/?invite_link_id=25794568597" target="blank">Abogabot - Público objetivo</a> </li>
     <li> <a href="https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2ZjNjFiYTM2NTdkOTRlYTM4YmU5OWYxOWU4YmIzYzhkX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9kMTExODgxMy00NzUzLTRjNjctYmY2NC1hOWM3NDY0ZDQ2YTA=" target="blank">Abogabot UX - Wireframe</a> </li>
     <li> <a href="https://www.figma.com/file/z4V5N3QUqSI3e9VvOQq3hj/Abogabot?node-id=0%3A1" target="blank">Abogabot UI - User Interface</a> </li>
