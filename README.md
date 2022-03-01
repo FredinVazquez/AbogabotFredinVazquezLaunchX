@@ -38,3 +38,6 @@ Esto fue como parte de la actividad para la misión de FrontEnd de LaunchX.
     * https://www.freepik.es/download-limit
     * <a href='https://.pngtree.com/so/material'>material png de .pngtree.com/</a>
 * Material proporcionado por LaunchX.
+
+### **Notas importantes**
+* En una próxima ocasión no realizar el Wireframe en un whiteboard, mejor realizarlo en miro, que es una pizarra online. 
